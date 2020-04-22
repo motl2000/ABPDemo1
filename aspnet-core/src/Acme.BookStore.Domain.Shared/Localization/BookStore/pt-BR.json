@@ -1,0 +1,18 @@
+{
+  "culture": "pt-BR",
+  "texts": {
+    "Menu:Home": "Principal",
+    "Welcome": "Seja bem-vindo!",
+    "LongWelcomeMessage": "Bem-vindo a esta aplicação. Este é um projeto inicial baseado no ABP framework. Para mais informações, visite abp.io.",
+    "Menu:Book": "MenuBook",
+    "Book": "Book",
+    "BookName": "BookName",
+    "BookType": "BookType",
+    "BookPublishDate": "BookPublishDate",
+    "BookPrice": "BookPrice",
+    "CreateBook": "CreateBook",
+    "EditBook": "EditBook",
+    "BookDeletionConfirmationMessage": "Are you sure to delete the book {0}?",
+    "SuccessfullyDeleted": "Successfully deleted"
+  }
+}
